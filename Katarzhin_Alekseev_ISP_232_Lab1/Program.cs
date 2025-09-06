@@ -45,6 +45,14 @@
             //Console.WriteLine($"Привет {name}!");
             //Console.WriteLine($"Сейчас тебе {age}.");
             //Console.WriteLine($"Через год тебе будет {age + 1}.");
+            //Задание 7
+            //Console.Write("Введите ваше имя: ");
+            //string name = Console.ReadLine();
+            //Console.Write("Введите ваш возраст:");
+            //int age = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Введите ваш город: ");
+            //string city = Console.ReadLine();
+            //Console.WriteLine($"Привет {name}! Тебе {age} лет и ты живёшь в городе {city}");
         }
     }
 }
