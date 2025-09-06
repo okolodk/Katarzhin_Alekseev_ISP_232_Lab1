@@ -37,6 +37,14 @@
             //double b = Convert.ToDouble(Console.ReadLine());
             //double res = 3 * (Math.Pow((a + b), 3)) + 275*(Math.Pow(b,2)) - (127 * a) -41;
             //Console.WriteLine(res);
+            //Задание 6
+            //Console.Write("Введите ваше имя: ");
+            //string name = Console.ReadLine();
+            //Console.Write("Введите ваш возраст:");
+            //int age = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine($"Привет {name}!");
+            //Console.WriteLine($"Сейчас тебе {age}.");
+            //Console.WriteLine($"Через год тебе будет {age + 1}.");
         }
     }
 }
