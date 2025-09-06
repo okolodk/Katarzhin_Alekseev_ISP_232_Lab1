@@ -26,6 +26,13 @@
             //}
             //Задание 3
             //Console.WriteLine("Hello There");
+            //Задание 4
+            //int mon = Convert.ToInt32(Console.ReadLine());
+            //int systblock = Convert.ToInt32(Console.ReadLine());
+            //int klava = Convert.ToInt32(Console.ReadLine());
+            //int mouse = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine((mon + systblock + klava + mouse) * 3);
+
         }
     }
 }
