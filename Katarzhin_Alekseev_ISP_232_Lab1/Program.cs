@@ -32,7 +32,11 @@
             //int klava = Convert.ToInt32(Console.ReadLine());
             //int mouse = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine((mon + systblock + klava + mouse) * 3);
-
+            //Задание 5
+            //double a = Convert.ToDouble(Console.ReadLine());
+            //double b = Convert.ToDouble(Console.ReadLine());
+            //double res = 3 * (Math.Pow((a + b), 3)) + 275*(Math.Pow(b,2)) - (127 * a) -41;
+            //Console.WriteLine(res);
         }
     }
 }
