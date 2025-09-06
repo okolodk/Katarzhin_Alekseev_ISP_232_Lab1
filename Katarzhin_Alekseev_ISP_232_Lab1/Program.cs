@@ -53,6 +53,10 @@
             //Console.Write("Введите ваш город: ");
             //string city = Console.ReadLine();
             //Console.WriteLine($"Привет {name}! Тебе {age} лет и ты живёшь в городе {city}");
+            //Задание 8
+            //double gradc = Convert.ToDouble(Console.ReadLine());
+            //double gradf = (gradc * 1.8) + 32;
+            //Console.WriteLine(gradf);
         }
     }
 }
