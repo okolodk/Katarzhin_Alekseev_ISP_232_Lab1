@@ -20,6 +20,10 @@
             //Console.WriteLine(love_number);
             //Console.WriteLine(pi_number);
             //Console.WriteLine(s);
+            //Задание 2
+            //for (int i= 0; i < 4; i++) {
+            //    Console.WriteLine("I need more power!");
+            //}
         }
     }
 }
