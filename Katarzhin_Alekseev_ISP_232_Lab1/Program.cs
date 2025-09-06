@@ -11,7 +11,15 @@
             //int age = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine($"Привет {name}!");
             //Console.WriteLine($"Через год тебе будет {age + 1}.");
-
+            //Задание 1
+            //string game = "Library_of_Ruina";
+            //int love_number = 11;
+            //double pi_number = 3.14;
+            //char s = 'Г';
+            //Console.WriteLine(game);
+            //Console.WriteLine(love_number);
+            //Console.WriteLine(pi_number);
+            //Console.WriteLine(s);
         }
     }
 }
