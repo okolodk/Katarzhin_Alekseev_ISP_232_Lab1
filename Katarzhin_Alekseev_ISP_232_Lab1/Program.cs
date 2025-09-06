@@ -24,6 +24,8 @@
             //for (int i= 0; i < 4; i++) {
             //    Console.WriteLine("I need more power!");
             //}
+            //Задание 3
+            //Console.WriteLine("Hello There");
         }
     }
 }
